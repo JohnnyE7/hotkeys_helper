@@ -10,7 +10,7 @@ This project is designed to help users learn useful Windows keyboard shortcuts i
 - **Achievements**: Earn badges for completing categories and reaching milestones.
 - **Customization**: Choose from a variety of hotkey categories to focus on.
 
-- ## Tech stack
+## Tech stack
 
 ### Backend:
 - **Language**: Python
