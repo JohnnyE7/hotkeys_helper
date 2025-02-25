@@ -1,9 +1,5 @@
 # Hotkeys Helper
-This project is designed to help users learn useful Windows keyboard shortcuts in an interactive and gamified format. It includes multiple categories, knowledge tests, achievement systems, and leaderboards.
-
-# Windows Hotkeys Learning App
-
-An interactive application to help users learn and practice useful Windows hotkeys in a gamified format.
+This project is designed to help users learn useful Windows keyboard shortcuts in an interactive and gamified format. Application includes multiple categories, knowledge tests, achievement systems, and leaderboards.
 
 ## Features
 - **Learning Mode**: Displays keyboard shortcuts and explains their functionality.
